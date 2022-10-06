@@ -106,4 +106,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-This is me modifying the ReadMe file.
+I am editing this again because I'm not sure it worked the first time.
+Hello, my name is Alison!
